@@ -1,0 +1,31 @@
+sudo npm install -global npm@5.5.1  
+OR 
+sudo npm i -g npm@5.5.1 
+This command is for installing the exact version of the node 
+package manager (npm) 
+
+
+//
+npm init 
+this command wil create the package.json file 
+which store the some basic info meta-data about the application
+npm init --yes 
+it will automatically create the package.json file 
+with deafault value  
+
+
+//
+npm i underscore 
+this is the node package avaiable in www.npmjs.com 
+from where we can install it by using it 
+
+//
+npm i mongoose
+installing the mongose by using node package manager
+for storing the data 
+
+
+//
+npm i
+this will brings back the node_modules folder back 
+if we delete it 
